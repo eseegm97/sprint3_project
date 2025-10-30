@@ -14,10 +14,12 @@ To develop this software, I used the following tools:
 - VSCode
 - R extension for VSCode
 - R syntax extension for VSCode
+- languageserver
+- radian
 - Rainbow CSV
 - MovieLens movie database from GroupLens
 
-I used the R language, as well as the libraries "languageserver" and "radian", for easier use of R.
+I used the R language, as well as the libraries "dplyr" and "ggplot2", for easier use of R.
 
 # Useful Websites
 
