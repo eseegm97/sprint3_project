@@ -6,7 +6,7 @@ The software that I created is a simple movie data analysis tool. Essentially, i
 
 My purpose in writing this software was twofold: 1. To learn a new language, namely R, which would help me better understand data manipulation, and 2. To learn more about trends in movies, since I am a movie fan.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=9IvCdTLKguM)
 
 # Development Environment
 
